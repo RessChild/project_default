@@ -13,6 +13,7 @@
         8. npm i mysql --save
         
 # 실행 방법
+    * 실행 전에 각 폴더에서 "npm i" 실행 
     - front : npm start
     - back  : npm start / npm run start:dev
 
