@@ -1,8 +1,9 @@
 # 기본 세팅
-    - front: REACT / AXIOS
+    - front: REACT / AXIOS / REACT-ROUTER
         1. npx create-react-app webpage
         2. npm i http-proxy-middleware --save
         3. npm i axios --save
+        4. npm i react-router-dom --save
     - back: NESTJS / TYPESCRIPT / TYPEORM (mysql)
         1. npm i nestjs -g
         2. nest new project_name ( 내부에 생성되는 .git 폴더 제거 )
